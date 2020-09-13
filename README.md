@@ -5,7 +5,7 @@ Name's GbaCretin, or Roberto if you want to be that boring! I go by he/him, but 
 
 #### Current projects
 * :musical_note: [Neogeo audio driver](https://github.com/GbaCretin/Mezz-Estate-NeoGeo-Audio-Driver)
-* *secret stuff...* :eyes:
+* :eyes: *secret stuff...*
 
 #### Interests
 * Retro consoles (mostly 16bit era)
