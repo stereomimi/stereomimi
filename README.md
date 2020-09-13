@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, Welcome to my github 😄
 
-<!--
-**GbaCretin/GbaCretin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About me
+Name's GbaCretin, or Roberto if you want to be that boring! I go by he/him, but you can also use they/them if you want.
 
-Here are some ideas to get you started:
+#### Current projects
+* :musical_note: [Neogeo audio driver](https://github.com/GbaCretin/Mezz-Estate-NeoGeo-Audio-Driver)
+* *secret stuff...* :eyes:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Interests
+* Retro consoles (mostly 16bit era)
+* Music
+* Drawing
+* Game design
+
+#### Contacts
+* Discord: GbaCretin#3380
+* Twitter: [@scarlet_gba](https://twitter.com/scarlet_gba/)
