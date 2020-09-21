@@ -1,4 +1,4 @@
-### Hi there, Welcome to my github 😄
+### Hi there, Welcome to my github!
 
 #### About me
 Name's GbaCretin, or Roberto if you want to be that boring! I go by he/him, but you can also use they/them if you want.
