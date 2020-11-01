@@ -15,4 +15,4 @@ Name's GbaCretin, or Roberto if you want to be that boring! I go by he/him, but 
 
 #### Contacts
 * Discord: GbaCretin#3380
-* Twitter: [@scarlet_gba](https://twitter.com/scarlet_gba/)
+* Twitter: [@mzs_studio](https://twitter.com/mzs_studio)
