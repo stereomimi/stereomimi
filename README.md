@@ -10,7 +10,6 @@ Name's Rob! Use any pronouns you want with me.
 * Retro consoles (mostly 16bit era)
 * Music
 * Drawing
-* Game design
 
 #### Contacts
 * Discord: GbaCretin#3380
