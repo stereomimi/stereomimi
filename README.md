@@ -13,4 +13,4 @@ Name's Rob! Use any pronouns you want with me.
 
 #### Contacts
 * Discord: GbaCretin#3380
-* Twitter: [@mzs_studio](https://twitter.com/mzs_studio)
+* Twitter: [@gbacretin](https://twitter.com/gbacretin)
