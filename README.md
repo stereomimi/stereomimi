@@ -13,4 +13,3 @@ Name's Rob! I program in z80 assembly, c, and python
 
 #### Contacts
 * Discord: GbaCretin#3380
-* Twitter: [@gbacretin](https://twitter.com/gbacretin)
