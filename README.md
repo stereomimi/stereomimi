@@ -12,4 +12,4 @@ I program in z80 assembly, c, and python
 * Drawing
 
 #### Contacts
-* Discord: GbaCretin#3380
+* Discord: StereoMimi#3380
