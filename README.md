@@ -2,6 +2,7 @@
 
 - My name's Maria! I'm an italian student, programmer and occasional artist. I'm also interested in linguistics.
 - I'm fluent in italian and english, and I can speak portuguese.
+- I own a NeoGeo MV1AX board, with a home-made supergun and stereo mod attached.
 
 ## Software Info
 - I know how to program in C, Rust, Lua and Z80 assembly.
