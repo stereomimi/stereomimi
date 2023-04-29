@@ -5,9 +5,8 @@
 - I own a NeoGeo MV1AX board, with a home-made supergun and stereo mod attached.
 
 ## Software Info
-- I know how to program in C, Rust, Lua and Z80 assembly.
+- I know how to program in C, Rust, Lua, C# and Z80 assembly.
 - I have written software ran on bare-metal low-end (by current standards) hardware, such as the NeoGeo's Z80 audio CPU.
-- I also have experience with Javascript and C#.
 
 ## Projects
 - **[MZS Neogeo Audio Driver](https://github.com/stereomimi/Mezz-Estate-NeoGeo-Audio-Driver)**: An audio driver for the NeoGeo with FM, SSG, and ADPCM support.
