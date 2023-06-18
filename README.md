@@ -13,7 +13,7 @@
 - **[Dream Reporter](https://stereomimi.itch.io/dream-reporter)**: A game prototype made during a 3-day gamejam.
 
 ## Links and Contacts
-- Discord: `StereoMimi#3380`
+- Discord: `@stereomimi`
 
 ## Credits
 - Github avatar drawn by [rubyyogurt](https://rubyyogurt.carrd.co/)
