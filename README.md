@@ -10,7 +10,7 @@
 
 ## Projects
 - **[MZS Neogeo Audio Driver](https://github.com/stereomimi/Mezz-Estate-NeoGeo-Audio-Driver)**: An audio driver for the NeoGeo with FM, SSG, and ADPCM support.
-- **[Dream Reporter](https://stereomimi.itch.io/dream-reporter)**: A game prototype made during a 3-day gamejam.
+- **[Dream Reporter Prototype](https://stereomimi.itch.io/dream-reporter)**: A game prototype made during a 3-day gamejam.
 
 ## Credits
 - Github avatar drawn by [rubyyogurt](https://rubyyogurt.carrd.co/)
